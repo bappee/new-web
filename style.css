@@ -40,15 +40,15 @@ section{
 }
 
 .header{
-    background-image:url("personal-website/header-bg.png");
+    background-image:url("new folder/header-bg.png");
     background-repeat: no-repeat;
 }
 .middle{
-    background-image:url("personal-website/biography-bg.png");
+    background-image:url("new folder/biography-bg.png");
     background-repeat: no-repeat;
 }
 .work-banner{
-background-image: url("personal-website/latest-work-bg.png");
+background-image: url("new folder/latest-work-bg.png");
 background-repeat: no-repeat;
 height: 400px;
 padding-bottom: 250px;
@@ -85,7 +85,7 @@ footer{
 }
 
 #ses-banner{
-    background-image: url("personal-website/footer-bg.png");
+    background-image: url("new folder/footer-bg.png");
     height: 300px;
 }
 
